@@ -14,3 +14,9 @@ $ ruby file_name_test.rb
 
 If you would like to contribute to adding solutions in other languages feel free
 to make a pull request.
+
+## Codewars Kata's
+
+### Chain Me
+
+[Ruby solution](/chain_me)
