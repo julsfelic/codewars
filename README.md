@@ -20,3 +20,7 @@ to make a pull request.
 ### Chain Me
 
 [Ruby solution](/chain_me)
+
+### DNA to RNA
+
+[Ruby solution](/dna_to_rna)
