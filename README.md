@@ -24,3 +24,7 @@ to make a pull request.
 ### DNA to RNA
 
 [Ruby solution](/dna_to_rna)
+
+### List Filtering
+
+[Ruby solution](/list_filtering)
