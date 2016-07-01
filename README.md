@@ -8,8 +8,15 @@ in multiple languages. The ruby solutions contain a both a main application file
 and a test file. Each solution is broken into its own directory and test can be
 run with the following command:
 
+### Ruby
+
 ```bash
 $ ruby file_name_test.rb
+```
+
+### JavaScript
+```bash
+$ mocha
 ```
 
 If you would like to contribute to adding solutions in other languages feel free
