@@ -32,3 +32,7 @@ to make a pull request.
 ### Highest and Lowest
 
 [Ruby solution](/highest_and_lowest)
+
+### Opposite Number
+
+[JavaScript solution](/opposite_number/js)
