@@ -28,3 +28,7 @@ to make a pull request.
 ### List Filtering
 
 [Ruby solution](/list_filtering)
+
+### Highest and Lowest
+
+[Ruby solution](/highest_and_lowest)
